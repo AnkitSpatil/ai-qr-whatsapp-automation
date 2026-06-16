@@ -81,7 +81,6 @@ User Input (URL + Mobile Number)
 
 ## Project Information
 
-- Duration: 2–3 months
 - Domain: AI Automation / Backend Development
 - Role: Backend Java Developer
 - Team Size: 1 (Individual Project)
